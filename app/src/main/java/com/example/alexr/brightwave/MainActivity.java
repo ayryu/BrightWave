@@ -17,7 +17,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     FragmentPagerAdapter adapterViewPager;
 
-    //change
+    //change #2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
